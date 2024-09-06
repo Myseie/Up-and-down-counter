@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Up and down counter\bin\Debug\net8.0\Up and down counter.exe
+D:\Programmering\Programmering\Up and down counter\bin\Debug\net8.0\Up and down counter.deps.json
+D:\Programmering\Programmering\Up and down counter\bin\Debug\net8.0\Up and down counter.runtimeconfig.json
+D:\Programmering\Programmering\Up and down counter\bin\Debug\net8.0\Up and down counter.dll
+D:\Programmering\Programmering\Up and down counter\bin\Debug\net8.0\Up and down counter.pdb
+D:\Programmering\Programmering\Up and down counter\obj\Debug\net8.0\Up and down counter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Up and down counter\obj\Debug\net8.0\Up and down counter.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Up and down counter\obj\Debug\net8.0\Up and down counter.AssemblyInfo.cs
+D:\Programmering\Programmering\Up and down counter\obj\Debug\net8.0\Up and down counter.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Up and down counter\obj\Debug\net8.0\Up and down counter.dll
+D:\Programmering\Programmering\Up and down counter\obj\Debug\net8.0\refint\Up and down counter.dll
+D:\Programmering\Programmering\Up and down counter\obj\Debug\net8.0\Up and down counter.pdb
+D:\Programmering\Programmering\Up and down counter\obj\Debug\net8.0\Up and down counter.genruntimeconfig.cache
+D:\Programmering\Programmering\Up and down counter\obj\Debug\net8.0\ref\Up and down counter.dll
